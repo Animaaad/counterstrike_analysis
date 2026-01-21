@@ -1,0 +1,201 @@
+players_name,Date,Player team,Opponent,Map,K - D,+/-,rating
+apex,14/12/25,Vitality (13),FaZe (2),ovp,11 - 8,3,1.57
+apex,14/12/25,Vitality (13),FaZe (9),inf,7 - 16,-9,0.58
+apex,14/12/25,Vitality (13),FaZe (3),d2,9 - 12,-3,0.8
+apex,14/12/25,Vitality (6),FaZe (13),nuke,7 - 14,-7,0.59
+apex,13/12/25,Vitality (13),Spirit (8),d2,12 - 10,2,1.15
+apex,13/12/25,Vitality (19),Spirit (17),mrg,15 - 25,-10,0.87
+apex,11/12/25,Vitality (13),The MongolZ (4),d2,9 - 11,-2,0.84
+apex,11/12/25,Vitality (13),The MongolZ (5),mrg,5 - 12,-7,0.39
+apex,6/12/25,Vitality (13),Natus Vincere (11),trn,10 - 15,-5,0.86
+apex,6/12/25,Vitality (13),Natus Vincere (11),inf,17 - 15,2,1.05
+apex,5/12/25,Vitality (13),B8 (2),inf,9 - 6,3,1.2
+apex,4/12/25,Vitality (13),3DMAX (4),nuke,9 - 9,0,0.88
+apex,4/12/25,Vitality (7),FaZe (13),nuke,6 - 14,-8,0.77
+apex,15/11/25,Vitality (7),Falcons (13),nuke,11 - 12,-1,0.88
+apex,15/11/25,Vitality (13),Falcons (16),inf,13 - 20,-7,0.67
+apex,14/11/25,Vitality (16),Spirit (13),mrg,19 - 19,0,0.82
+apex,14/11/25,Vitality (19),Spirit (16),nuke,15 - 25,-10,0.67
+apex,14/11/25,Vitality (11),Spirit (13),d2,8 - 14,-6,0.67
+apex,13/11/25,Vitality (5),FURIA (13),inf,10 - 14,-4,0.75
+apex,13/11/25,Vitality (16),FURIA (13),ovp,14 - 18,-4,0.78
+apex,13/11/25,Vitality (11),FURIA (13),nuke,11 - 19,-8,0.67
+apex,12/11/25,Vitality (13),TYLOO (11),inf,11 - 13,-2,0.86
+apex,12/11/25,Vitality (4),TYLOO (13),nuke,5 - 15,-10,0.46
+apex,12/11/25,Vitality (13),TYLOO (2),ovp,10 - 11,-1,1.15
+apex,9/11/25,Vitality (11),FURIA (13),ovp,19 - 17,2,1.15
+apex,9/11/25,Vitality (10),FURIA (13),inf,5 - 18,-13,0.54
+apex,9/11/25,Vitality (11),FURIA (13),anc,14 - 17,-3,0.75
+apex,8/11/25,Vitality (13),MOUZ (10),inf,14 - 17,-3,0.95
+apex,8/11/25,Vitality (11),MOUZ (13),trn,8 - 17,-9,0.68
+apex,8/11/25,Vitality (16),MOUZ (13),nuke,21 - 18,3,1.39
+apex,7/11/25,Vitality (13),Astralis (7),mrg,14 - 15,-1,0.95
+apex,7/11/25,Vitality (14),Astralis (16),nuke,16 - 23,-7,0.89
+apex,7/11/25,Vitality (13),Astralis (7),inf,14 - 11,3,1.26
+apex,5/11/25,Vitality (13),G2 (11),mrg,15 - 16,-1,0.98
+apex,5/11/25,Vitality (13),G2 (4),trn,10 - 11,-1,1.05
+apex,5/11/25,Vitality (13),Lynn Vision (5),nuke,14 - 10,4,1.3
+apex,5/11/25,Vitality (13),Lynn Vision (2),d2,15 - 8,7,1.71
+apex,4/11/25,Vitality (19),MOUZ (22),inf,19 - 25,-6,0.81
+apex,4/11/25,Vitality (13),MOUZ (8),nuke,5 - 18,-13,0.4
+apex,4/11/25,Vitality (3),MOUZ (13),trn,2 - 15,-13,0.45
+apex,3/11/25,Vitality (13),Virtus.pro (4),mrg,10 - 9,1,0.88
+apex,3/11/25,Vitality (13),Virtus.pro (11),d2,16 - 15,1,1.15
+apex,3/11/25,Vitality (9),Virtus.pro (13),ovp,6 - 15,-9,0.65
+apex,12/10/25,Vitality (13),Falcons (5),d2,12 - 10,2,1.17
+apex,12/10/25,Vitality (13),Falcons (9),trn,17 - 15,2,1.02
+apex,12/10/25,Vitality (13),Falcons (10),inf,11 - 16,-5,0.78
+apex,11/10/25,Vitality (13),FaZe (8),d2,15 - 13,2,1.13
+apex,11/10/25,Vitality (13),FaZe (9),inf,5 - 16,-11,0.59
+apex,11/10/25,Vitality (20),FaZe (22),mrg,25 - 29,-4,0.95
+apex,10/10/25,Vitality (13),FURIA (7),nuke,12 - 14,-2,1.02
+apex,10/10/25,Vitality (13),FURIA (7),inf,8 - 10,-2,0.84
+apex,10/10/25,Vitality (9),FURIA (13),ovp,11 - 16,-5,0.73
+apex,7/10/25,Vitality (16),G2 (13),mrg,17 - 19,-2,1.15
+apex,7/10/25,Vitality (13),G2 (2),inf,11 - 7,4,1.28
+apex,6/10/25,Vitality (13),HOTU (5),d2,16 - 9,7,1.33
+apex,6/10/25,Vitality (13),HOTU (8),ovp,16 - 11,5,1.21
+apex,5/10/25,Vitality (13),GamerLegion (1),d2,2 - 10,-8,0.65
+apex,5/10/25,Vitality (13),GamerLegion (3),ovp,8 - 7,1,1.23
+apex,4/10/25,Vitality (11),Gentle Mates (13),trn,11 - 17,-6,0.84
+apex,4/10/25,Vitality (6),Gentle Mates (13),nuke,5 - 16,-11,0.42
+apex,7/9/25,Vitality (6),G2 (13),trn,10 - 13,-3,0.88
+apex,7/9/25,Vitality (12),G2 (16),inf,12 - 16,-4,0.72
+apex,7/9/25,Vitality (13),G2 (6),ovp,11 - 10,1,0.98
+apex,7/9/25,Vitality (13),G2 (6),mrg,8 - 10,-2,0.76
+apex,7/9/25,Vitality (3),G2 (13),d2,10 - 13,-3,0.99
+apex,6/9/25,Vitality (13),MOUZ (8),inf,11 - 14,-3,1.11
+apex,6/9/25,Vitality (13),MOUZ (7),mrg,14 - 11,3,1.39
+apex,1/9/25,Vitality (13),FaZe (5),inf,11 - 12,-1,0.92
+apex,1/9/25,Vitality (19),FaZe (16),nuke,23 - 27,-4,1.11
+apex,1/9/25,Vitality (17),FaZe (19),mrg,18 - 31,-13,0.69
+apex,29/8/25,Vitality (13),GamerLegion (4),nuke,16 - 8,8,1.6
+apex,29/8/25,Vitality (7),GamerLegion (13),inf,9 - 15,-6,0.78
+apex,29/8/25,Vitality (13),GamerLegion (9),trn,21 - 16,5,1.24
+apex,27/8/25,Vitality (13),M80 (10),inf,14 - 11,3,1.07
+apex,27/8/25,Vitality (13),M80 (7),d2,14 - 10,4,1.38
+apex,27/8/25,Vitality (3),M80 (13),ovp,8 - 14,-6,0.71
+apex,24/8/25,Vitality (3),Falcons (13),nuke,7 - 14,-7,0.74
+apex,24/8/25,Vitality (3),Falcons (13),trn,2 - 15,-13,0.29
+apex,24/8/25,Vitality (13),Falcons (9),inf,16 - 13,3,1.25
+apex,23/8/25,Vitality (7),The MongolZ (13),nuke,5 - 15,-10,0.69
+apex,23/8/25,Vitality (13),The MongolZ (9),d2,14 - 12,2,1.28
+apex,23/8/25,Vitality (8),The MongolZ (13),mrg,7 - 19,-12,0.44
+apex,21/8/25,Vitality (13),TYLOO (8),nuke,12 - 13,-1,0.97
+apex,21/8/25,Vitality (13),TYLOO (4),inf,8 - 9,-1,1.19
+apex,20/8/25,Vitality (19),Liquid (16),d2,13 - 24,-11,0.7
+apex,20/8/25,Vitality (13),Liquid (11),mrg,15 - 18,-3,0.82
+apex,16/8/25,Vitality (11),The MongolZ (13),inf,17 - 18,-1,1.15
+apex,16/8/25,Vitality (7),The MongolZ (13),mrg,8 - 18,-10,0.6
+apex,15/8/25,Vitality (19),Liquid (16),nuke,18 - 25,-7,0.83
+apex,15/8/25,Vitality (16),Liquid (13),trn,20 - 19,1,1.05
+apex,10/8/25,Vitality (13),Legacy (8),d2,11 - 13,-2,0.86
+apex,10/8/25,Vitality (16),Legacy (12),mrg,22 - 18,4,1.18
+apex,8/8/25,Vitality (13),NRG (4),d2,16 - 7,9,1.9
+apex,8/8/25,Vitality (13),NRG (5),mrg,8 - 12,-4,0.72
+apex,2/8/25,Vitality (8),MOUZ (13),trn,14 - 14,0,1.2
+apex,2/8/25,Vitality (9),MOUZ (13),mrg,9 - 20,-11,0.61
+apex,29/7/25,Vitality (13),The MongolZ (8),inf,14 - 12,2,1.05
+apex,29/7/25,Vitality (13),The MongolZ (5),mrg,10 - 9,1,0.77
+apex,27/7/25,Vitality (13),G2 (10),trn,19 - 15,4,1.22
+apex,27/7/25,Vitality (13),G2 (5),inf,10 - 9,1,1.15
+apex,26/7/25,Vitality (13),Astralis (8),ovp,15 - 14,1,1.32
+apex,26/7/25,Vitality (13),Astralis (11),nuke,9 - 16,-7,0.59
+apex,22/6/25,Vitality (13),The MongolZ (6),inf,17 - 11,6,1.78
+apex,22/6/25,Vitality (13),The MongolZ (4),d2,10 - 8,2,1.14
+apex,22/6/25,Vitality (5),The MongolZ (13),mrg,16 - 14,2,1.1
+apex,21/6/25,Vitality (13),MOUZ (6),trn,14 - 10,4,1.36
+apex,21/6/25,Vitality (4),MOUZ (13),inf,5 - 15,-10,0.7
+apex,21/6/25,Vitality (13),MOUZ (8),mrg,11 - 12,-1,0.77
+apex,20/6/25,Vitality (13),Natus Vincere (11),nuke,12 - 13,-1,0.78
+apex,20/6/25,Vitality (13),Natus Vincere (9),mrg,9 - 15,-6,0.77
+apex,14/6/25,Vitality (13),Virtus.pro (6),d2,12 - 9,3,1.16
+apex,14/6/25,Vitality (13),Virtus.pro (6),trn,12 - 14,-2,0.82
+apex,13/6/25,Vitality (13),3DMAX (2),nuke,10 - 6,4,0.98
+apex,13/6/25,Vitality (13),Nemiga (6),d2,15 - 7,8,1.49
+apex,12/6/25,Vitality (3),Legacy (13),inf,6 - 11,-5,0.77
+apex,25/5/25,Vitality (13),MOUZ (8),inf,14 - 9,5,1.4
+apex,25/5/25,Vitality (13),MOUZ (9),mrg,12 - 17,-5,0.69
+apex,25/5/25,Vitality (13),MOUZ (11),d2,15 - 17,-2,0.95
+apex,24/5/25,Vitality (13),Falcons (11),inf,13 - 16,-3,0.99
+apex,24/5/25,Vitality (6),Falcons (13),trn,6 - 15,-9,0.61
+apex,24/5/25,Vitality (13),Falcons (7),d2,12 - 11,1,0.95
+apex,22/5/25,Vitality (13),The MongolZ (11),mrg,17 - 16,1,0.95
+apex,22/5/25,Vitality (7),The MongolZ (13),nuke,7 - 15,-8,0.5
+apex,22/5/25,Vitality (13),The MongolZ (10),inf,9 - 14,-5,0.79
+apex,20/5/25,Vitality (13),GamerLegion (10),nuke,16 - 13,3,1.09
+apex,20/5/25,Vitality (13),GamerLegion (9),mrg,17 - 15,2,1.14
+apex,19/5/25,Vitality (13),Legacy (11),d2,23 - 15,8,1.48
+apex,19/5/25,Vitality (13),Legacy (5),inf,15 - 8,7,1.32
+apex,4/5/25,Vitality (13),Falcons (8),nuke,13 - 14,-1,0.91
+apex,4/5/25,Vitality (14),Falcons (16),mrg,13 - 23,-10,0.6
+apex,4/5/25,Vitality (13),Falcons (6),trn,10 - 11,-1,0.95
+apex,4/5/25,Vitality (13),Falcons (6),d2,16 - 15,1,1.22
+apex,4/5/25,Vitality (9),Falcons (13),inf,12 - 14,-2,1.08
+apex,3/5/25,Vitality (13),Spirit (9),nuke,14 - 14,0,1.21
+apex,3/5/25,Vitality (13),Spirit (8),mrg,10 - 14,-4,0.75
+apex,1/5/25,Vitality (13),MOUZ (8),trn,18 - 13,5,1.19
+apex,1/5/25,Vitality (13),MOUZ (9),inf,12 - 15,-3,1.19
+apex,1/5/25,Vitality (9),MOUZ (13),mrg,11 - 16,-5,0.89
+apex,30/4/25,Vitality (13),Wildcard (6),d2,18 - 9,9,1.71
+apex,30/4/25,Vitality (13),Wildcard (7),inf,14 - 11,3,1.32
+apex,27/4/25,Vitality (22),Falcons (20),nuke,22 - 36,-14,0.72
+apex,27/4/25,Vitality (10),Falcons (13),mrg,11 - 15,-4,0.9
+apex,27/4/25,Vitality (13),Falcons (9),trn,16 - 14,2,1.16
+apex,27/4/25,Vitality (12),Falcons (16),d2,16 - 22,-6,0.91
+apex,27/4/25,Vitality (13),Falcons (2),inf,13 - 7,6,1.9
+apex,26/4/25,Vitality (13),The MongolZ (3),nuke,5 - 7,-2,0.81
+apex,26/4/25,Vitality (13),The MongolZ (3),mrg,14 - 9,5,1.38
+apex,23/4/25,Vitality (13),Falcons (8),inf,15 - 12,3,1.19
+apex,23/4/25,Vitality (16),Falcons (13),mrg,15 - 18,-3,1.01
+apex,22/4/25,Vitality (13),Liquid (8),nuke,9 - 15,-6,0.65
+apex,22/4/25,Vitality (13),Liquid (5),mrg,17 - 10,7,1.14
+apex,21/4/25,Vitality (13),FlyQuest (8),nuke,10 - 14,-4,0.73
+apex,21/4/25,Vitality (13),FlyQuest (2),anb,10 - 10,0,1.09
+apex,30/3/25,Vitality (13),MOUZ (7),trn,15 - 12,3,1.18
+apex,30/3/25,Vitality (13),MOUZ (7),nuke,17 - 12,5,1.38
+apex,30/3/25,Vitality (11),MOUZ (13),d2,10 - 15,-5,0.73
+apex,30/3/25,Vitality (11),MOUZ (13),mrg,18 - 20,-2,0.89
+apex,30/3/25,Vitality (13),MOUZ (0),inf,6 - 8,-2,1.47
+apex,29/3/25,Vitality (13),Spirit (10),mrg,14 - 19,-5,0.98
+apex,29/3/25,Vitality (5),Spirit (13),nuke,11 - 16,-5,1.02
+apex,29/3/25,Vitality (13),Spirit (6),anb,12 - 15,-3,1.04
+apex,24/3/25,Vitality (13),MOUZ (11),d2,7 - 18,-11,0.39
+apex,24/3/25,Vitality (13),MOUZ (11),mrg,14 - 18,-4,0.96
+apex,21/3/25,Vitality (13),Virtus.pro (5),inf,10 - 11,-1,1
+apex,21/3/25,Vitality (13),Virtus.pro (6),anb,13 - 12,1,1
+apex,19/3/25,Vitality (13),Astralis (6),d2,9 - 12,-3,0.95
+apex,19/3/25,Vitality (13),Astralis (4),inf,10 - 7,3,1.37
+apex,16/3/25,Vitality (13),MOUZ (5),inf,16 - 12,4,1.52
+apex,16/3/25,Vitality (13),MOUZ (4),nuke,15 - 13,2,1.3
+apex,16/3/25,Vitality (13),MOUZ (9),d2,14 - 15,-1,1.12
+apex,15/3/25,Vitality (13),The MongolZ (2),inf,9 - 6,3,1.24
+apex,15/3/25,Vitality (14),The MongolZ (16),nuke,20 - 23,-3,0.94
+apex,15/3/25,Vitality (13),The MongolZ (4),anb,11 - 10,1,1.17
+apex,14/3/25,Vitality (13),Liquid (9),d2,12 - 9,3,1.08
+apex,14/3/25,Vitality (13),Liquid (9),anb,8 - 15,-7,0.74
+apex,9/3/25,Vitality (13),MOUZ (7),d2,8 - 10,-2,0.98
+apex,9/3/25,Vitality (13),MOUZ (6),inf,20 - 8,12,1.94
+apex,8/3/25,Vitality (13),3DMAX (7),d2,16 - 15,1,1.31
+apex,8/3/25,Vitality (13),3DMAX (5),trn,10 - 11,-1,0.76
+apex,7/3/25,Vitality (13),MIBR (8),trn,17 - 15,2,1.18
+apex,7/3/25,Vitality (13),MIBR (3),inf,9 - 7,2,1.32
+apex,7/3/25,Vitality (7),MIBR (13),anb,11 - 16,-5,0.8
+apex,9/2/25,Vitality (13),Spirit (11),mrg,19 - 17,2,1.31
+apex,9/2/25,Vitality (13),Spirit (5),nuke,13 - 8,5,1.23
+apex,9/2/25,Vitality (13),Spirit (6),d2,13 - 11,2,1.21
+apex,8/2/25,Vitality (13),The MongolZ (9),nuke,10 - 15,-5,0.84
+apex,8/2/25,Vitality (13),The MongolZ (7),mrg,21 - 15,6,1.37
+apex,4/2/25,Vitality (13),Virtus.pro (5),inf,7 - 12,-5,1.05
+apex,4/2/25,Vitality (13),Virtus.pro (8),anb,14 - 10,4,1.22
+apex,2/2/25,Vitality (19),FaZe (16),d2,21 - 27,-6,1.06
+apex,2/2/25,Vitality (10),FaZe (13),anb,9 - 16,-7,0.74
+apex,2/2/25,Vitality (13),FaZe (3),nuke,14 - 7,7,1.58
+apex,1/2/25,Vitality (13),3DMAX (9),nuke,12 - 10,2,1.09
+apex,1/2/25,Vitality (19),3DMAX (16),inf,20 - 26,-6,0.97
+apex,24/1/25,Vitality (11),Eternal Fire (13),mrg,8 - 16,-8,0.59
+apex,24/1/25,Vitality (9),Eternal Fire (13),anb,8 - 17,-9,0.54
+apex,19/1/25,Vitality (13),Virtus.pro (6),inf,11 - 12,-1,0.67
+apex,19/1/25,Vitality (13),Virtus.pro (11),trn,11 - 19,-8,0.62
+apex,15/1/25,Vitality (13),Metizport (9),d2,13 - 16,-3,1.05
+apex,15/1/25,Vitality (13),Metizport (11),mrg,13 - 18,-5,0.94
